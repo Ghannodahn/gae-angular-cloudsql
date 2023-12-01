@@ -21,5 +21,6 @@ __pycache__/
 # Source & Support
 src
 node_modules
+env
 .angular
 .vscode
